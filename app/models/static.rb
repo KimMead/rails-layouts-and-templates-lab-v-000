@@ -1,2 +1,2 @@
-class Static < ActiveRecord::Base 
+class Static < ActiveRecord::Base
 end 
